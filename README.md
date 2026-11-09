@@ -1,16 +1,23 @@
-## Hi there 👋
+## Hi there 👋 **I am GUDIPUDI NEELIMA**
 
-<!--
-**neelimagudipudi/neelimagudipudi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi 👋, I'm A Passionate **FULL STACK UI,PYTHON DEVELOPER** from India
+A passionate developer from India
+Coding
 
-Here are some ideas to get you started:
+🔭 I’m currently working on **Quiz application,OTP Project**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 I’m currently learning **python,java**
+
+👯 I’m looking to collaborate on **Ecommerce**
+
+🤝 I’m looking for help with **Bank application**
+
+📝 I regularly write articles on **html,mysql**
+
+💬 Ask me about **Django,Python,Html,Css,bootstrap,,Pandas,Mysql,sql**
+
+📫 How to reach me **neelimagudipudi502@gmail.com**
+
+⚡ Fun fact I think i am funny
+
+Connect with me:
